@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitUserDemo</string>
+    <string name="limit_exceeded">API rate limit exceeded</string>
+</resources>
